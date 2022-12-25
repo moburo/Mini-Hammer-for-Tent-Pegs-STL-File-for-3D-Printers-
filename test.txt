@@ -1,3 +1,0 @@
-A peg hammer for tents.  I made it myself in search of a light and small hammer.
- A printer that can model up to 200 * 200 mm in length and width can output at 90%.
- I think that it is more durable to fill the inside as it is, but it will be heavier by that amount and filament will be used.
